@@ -1,4 +1,4 @@
-# Hi there, I'm Armagan - my website [Armagan Dalkiran][website] 👋 
+# Hi there, I'm Armagan - my website [armagandalkiran][website] 👋 
 
 
 [![Website](https://img.shields.io/website?label=armagandalkiran.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.armagandalkiran.com/)
@@ -11,9 +11,8 @@
 - 😁 Fun fact: I write code as a hobby !!
 
 ### Connect with me:
-mail-dark
-[![website](./img/mail-dark.svg)](mailto:armagandalkran20@gmail.com/#gh-dark-mode-only)
-[![website](./img/mail-light.svg)](mailto:armagandalkran20@gmail.com/#gh-light-mode-only)
+[![website](./img/mail-dark.svg)](mailto:armagandalkran20@gmail.com/)
+[![website](./img/mail-light.svg)](mailto:armagandalkran20@gmail.com/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arma%C4%9Fan-dalk%C4%B1ran-4aa233171/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arma%C4%9Fan-dalk%C4%B1ran-4aa233171/#gh-dark-mode-only)
