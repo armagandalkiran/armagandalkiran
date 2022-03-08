@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.armagandalkiran.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.armagandalkiran.com/#gh-dark-mode-only)
+[![website](./img/mail-light.svg)](mailto:armagandalkran20@gmail.com/#gh-light-mode-only)
+[![website](./img/mail-dark.svg)](mailto:armagandalkran20@gmail.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arma%C4%9Fan-dalk%C4%B1ran-4aa233171/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arma%C4%9Fan-dalk%C4%B1ran-4aa233171/#gh-dark-mode-only)
