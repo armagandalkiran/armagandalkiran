@@ -11,8 +11,8 @@
 - 😁 Fun fact: I write code as a hobby !!
 
 ### Connect with me:
-[![website](./img/mail-dark.svg)](mailto:armagandalkran20@gmail.com/)
-[![website](./img/mail-light.svg)](mailto:armagandalkran20@gmail.com/)
+[![website](./img/mail-dark.svg)](mailto:armagandalkran20@gmail.com/#gh-dark-mode-only)
+[![website](./img/mail-light.svg)](mailto:armagandalkran20@gmail.com/#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arma%C4%9Fan-dalk%C4%B1ran-4aa233171/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arma%C4%9Fan-dalk%C4%B1ran-4aa233171/#gh-dark-mode-only)
