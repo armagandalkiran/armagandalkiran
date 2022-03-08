@@ -1,7 +1,7 @@
 # Hi there, I'm Armagan - my website [Armagan Dalkiran][website] 👋 
 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.armagandalkiran.com/)
+[![Website](https://img.shields.io/website?label=armagandalkiran.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.armagandalkiran.com/)
 
 ## I'm a Front-end developer candidate !!
 
