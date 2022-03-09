@@ -5,6 +5,9 @@
 
 ## I'm a Front-end developer candidate !!
 
+- 📍 Ankara
+- 📝Baskent University / Computer Engineering
+
 - 👀 I learn every day !!
 - 🚀 I'm currently looking for a job !!
 - 🥅 2022 Goals: Get a job !!
