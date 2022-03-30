@@ -1,9 +1,6 @@
 # Hi there, I'm Armagan - my website [armagandalkiran][website] 👋 
 
-
-[![Website](https://img.shields.io/website?label=armagandalkiran.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.armagandalkiran.com/)
-
-## I'm a Front-end developer candidate !!
+## I'm a Front-end developer !!
 
 - 📍 Ankara
 - 📝Baskent University / Computer Engineering
