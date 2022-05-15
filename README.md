@@ -17,6 +17,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arma%C4%9Fan-dalk%C4%B1ran-4aa233171/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arma%C4%9Fan-dalk%C4%B1ran-4aa233171/#gh-dark-mode-only)
 
+![Profile views](https://gpvc.arturio.dev/armagandalkiran) 
+
 ### Languages and Tools:
 
 
