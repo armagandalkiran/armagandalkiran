@@ -1,13 +1,13 @@
 # Hi there, I'm Armagan - my website [armagandalkiran][website] 👋 
 
-## I'm a Front-end developer !!
+## I'm a Software Engineer @trendyol !
 
 - 📍 Ankara
-- 📝Baskent University / Computer Engineering
+- 🎓Baskent University / Computer Engineering
 
 - 👀 I learn every day !!
-- 🚀 I'm currently looking for a job !!
-- 🥅 2022 Goals: Get a job !!
+- 🚀 I'm interested in front-end development !!
+- 🥅 2022 Goals: To be better than last year !!
 - 😁 Fun fact: I write code as a hobby !!
 
 ### Connect with me:
