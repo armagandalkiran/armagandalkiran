@@ -1,4 +1,4 @@
-# Hi there, I'm Armagan - my website [armagandalkiran][website] 👋 
+# Hi there, I'm Armagan 👋 
 
 ## I'm a Software Engineer @trendyol !
 
