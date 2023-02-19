@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer @trendyol !
 
-- 📍 Ankara
+- 📍 Marmaris
 - 🎓Baskent University / Computer Engineering
 
 - 👀 I learn every day !!
