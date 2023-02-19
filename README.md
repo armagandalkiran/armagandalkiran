@@ -7,7 +7,7 @@
 
 - 👀 I learn every day !!
 - 🚀 I'm interested in front-end development !!
-- 🥅 2022 Goals: To be better than last year !!
+- 🥅 2023 Goals: To be better than last year !!
 - 😁 Fun fact: I write code as a hobby !!
 
 ### Connect with me:
