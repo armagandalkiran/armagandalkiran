@@ -4,8 +4,6 @@
 
 - 📍 Marmaris
 - 🎓 Baskent University / Computer Engineering
-
-- 👀 I learn every day !!
 - 🚀 I'm interested in front-end development !!
 
 ### Connect with me:
