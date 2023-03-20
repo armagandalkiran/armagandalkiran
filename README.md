@@ -3,12 +3,10 @@
 ## I'm a Software Engineer @trendyol !
 
 - 📍 Marmaris
-- 🎓Baskent University / Computer Engineering
+- 🎓 Baskent University / Computer Engineering
 
 - 👀 I learn every day !!
 - 🚀 I'm interested in front-end development !!
-- 🥅 2023 Goals: To be better than last year !!
-- 😁 Fun fact: I write code as a hobby !!
 
 ### Connect with me:
 [![website](./img/mail-dark.svg)](mailto:armagandalkran20@gmail.com/#gh-dark-mode-only)
