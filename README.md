@@ -4,7 +4,6 @@
 
 - 📍 Marmaris
 - 🎓 Baskent University / Computer Engineering
-- 🚀 I'm interested in front-end development !!
 
 ### Connect with me:
 [![website](./img/mail-dark.svg)](mailto:armagandalkran20@gmail.com/#gh-dark-mode-only)
